@@ -11,5 +11,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/works-yesed-scriptedi
 # AC
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/works-yesed-scriptedit/Stopwatch/refs/heads/main/MainScript.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/works-yesed-scriptedit/Stopwatch/refs/heads/main/ac.lua"))()
 ```
